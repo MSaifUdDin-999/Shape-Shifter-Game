@@ -1,6 +1,6 @@
 # 🔵⏹️🔼 Shape Shifter
 
-![Shape Shifter Gameplay](<img width="1918" height="970" alt="Screenshot 2026-07-13 193534" src="https://github.com/user-attachments/assets/51d699d4-f6e1-4d56-a202-4fadc2eb80b5" />)
+![Shape Shifter Gameplay](<img width="1918" height="970" alt="Screenshot 2026-07-13 193534" src="https://github.com/user-attachments/assets/73c274a8-c60b-4563-8066-12ff88d44dfd" />)
 
 **Shape Shifter** is a fast-paced, interactive web game built with React. The objective is simple but addictive: match your player's shape to the falling shapes before they collide! As your score increases, the shapes fall faster, testing your reflexes and quick thinking.
 
