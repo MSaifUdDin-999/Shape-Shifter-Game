@@ -50,7 +50,7 @@ If you want to run this project locally on your machine, follow these steps:
 
 1. **Clone the repository:**
 ```bash
-   git clone [https://github.com/your-username/shape-shifter.git](https://github.com/your-username/shape-shifter.git)
+   git clone [https://github.com/MSaifUdDin-999/Shape-Shifter-Game.git](https://github.com/MSaifUdDin-999/Shape-Shifter-Game.git)
 
 ```
 
