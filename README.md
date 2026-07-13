@@ -8,7 +8,7 @@
 
 ## 🚀 Live Demo
 
-[Play Shape Shifter Here](https://shape-shifter-game.vercel.app/)
+🔴 [Play Shape Shifter Here](https://shape-shifter-game.vercel.app/)
 
 ---
 
