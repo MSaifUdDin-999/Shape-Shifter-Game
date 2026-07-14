@@ -81,7 +81,7 @@ Visit `http://localhost:3000` or `http://localhost:5173` to view the application
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Developer
 
 I'm **M Saif Ud Din**, a Full-stack developer passionate about building clean, responsive, and real-world web applications while continuously exploring modern technologies.
 
